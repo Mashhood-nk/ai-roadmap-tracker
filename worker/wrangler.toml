@@ -6,7 +6,7 @@ compatibility_date = "2024-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "ai-roadmap-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "8a01daae-50eb-439b-8b17-e34cb1c94ba0"
 
 # APP_PIN is set as a secret — never put it here
 # Run: wrangler secret put APP_PIN
